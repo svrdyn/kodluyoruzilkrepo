@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarifler</title>
+</head>
+<body>
+        <h1>Patates Püresi</h1>
+        <p>
+            Sofralarımızı hatta tabaklarımızı süsleyen yumuşacık <br>
+            lezzetiyle patates püresi tarifini sizler için paylaşıyorum. <br>
+            Patates püresini hazırlamak çok kolay gözükse de <br>
+            tam kıvamında olması zordur. Et yemeği ve tavuklu <br>
+            tariflerin yanına veya patates püresi ile hazırlanan <br>
+            tarifler ile çeşit çeşit doyurucu ve farklı <br>
+            tarifler hazırlayabilirsiniz.
+        </p>
+        <p>Tarif: Patates Dede</p>
+        <hr>
+        <h2>Patates Püresi Tarifi İçin Malzemeler</h2>
+        <ul>
+            <li>6-8 tane patates</li>
+            <li>Su (patatesleri haşlamak için)</li>
+            <li>2 kaşık tereyağı</li>
+            <li>1 su bardağı süt</li>
+            <li>Tuz</li>
+            <li>Karabiber</li>
+        </ul>
+        <hr>
+        <h2>Patates Püresi Tarifi Nasıl Yapılır?</h2>
+        <ol>
+            <li>Patates püresi için öncelikle patatesler soyulur, doğranır ve bol suda kaynatılır.</li>
+            <li>Yumuşayan patatesler süzülür.</li>
+            <li>Soğumadan içine tereyağı ilave edilir ve ezilir.</li>
+            <li>Süt, tuz ve karabiber eklenir.</li>
+            <li>İyice püre haline gelene kadar ezilir.</li>
+            <li>Patates püresi sıcak olarak et, tavuk veya rosto yemekleri ile servis yapılır.</li>
+            <li>Afiyet olsun.</li>
+        </ol>
+        <hr>
+        <ul>
+            <li>Kaç kişilik: 4-6 Kişilik</li>
+            <li>Hazırlanma Süresi: 30 dakika</li>
+            <li>Pişirme Süresi: 20 dakika</li>
+        </ul>
+
+</body>
+</html>
