@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market</title>
+    <style>
+        body{
+            background-color: bisque;
+        }
+        .menu {
+            text-align: center;
+        }
+        h1{
+            color: red;
+            text-align: center;
+        }
+        a{
+            font-size: 25px;
+            color: brown;
+        }
+        ul{
+            text-align: center;
+        }
+        li{
+            text-align: center;
+        }
+        footer{
+            text-align: center;
+            
+        }
+    
+    </style>
+</head>
+<body>
+    <div class="menu">
+        <ul>
+        <a href="index.html">Anasayfa</a> |
+        <a href="urunler.html">Ürünlerimiz</a> |
+        <a href="hakkimizda.html">Hakkımızda</a> |
+         </ul>
+        <hr>
+    </div>
+    <section>
+        <h1>Ürünlerimiz</h1>
+        <ul>
+            <li>Peynir</li>
+            <img src="resimler/peynir.jpg" width="300" height="300" alt="Peynir">
+            <li>Ekmek</li>
+            <img src="resimler/ekmek.jpg" width="300" height="300" alt="Ekmek">
+            <li>Domates</li>
+            <img src="resimler/domates.jpg" width="300" height="300" alt="Domates">
+            <li>Pil</li>
+            <img src="resimler/pil.jpg" width="300" height="300" alt="Pil">
+            <li>Salatalık</li>
+            <img src="resimler/salatalık.jpg" width="300" height="300" alt="Salatalık">
+        </ul>
+    </section>
+    <footer>
+        <a href="index.html">Anasayfa</a>
+        <a href="urunler.html">Ürünlerimiz</a>
+        <a href="hakkimizda.html">Hakkımızda</a>
+        <hr>
+    </footer>
+    
+</body>
+</html>
