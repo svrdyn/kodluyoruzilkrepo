@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google 1998</title>
+    <style>
+        body {
+          font-family: Arial;
+          padding: 0px;
+          margin: 0px;
+        }
+        .example{
+            text-align: center;
+        }
+        ul{
+            text-align: center;
+            margin: auto;
+            padding: 20px 20 px 30px 30px;
+            list-style: none;
+            font-size: 25px;
+            max-width: max-content;
+
+        }
+        
+        
+        </style>
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="resimler/google-1998.jpg" alt="Google-1998">
+    </div>
+    
+    <h2 style="text-align: center;">Search Button</h2>
+<form class="example">
+    <input type="text" placeholder="Search.." name="search">
+    <br>
+    <button type="submit">Submit</button>
+    <button type="submit">I'm feeling lucky</button>
+    <br>
+    <ul style="text-align: left; background-color: antiquewhite; float: left;">
+        <li>Araba</li>
+        <li>Telefon</li>
+        <li>Motor</li>
+    </ul>
+    <ul style="text-align: center; background-color: aqua; float: left;">
+        <li>Araba</li>
+        <li>Telefon</li>
+        <li>Motor</li>
+    </ul>
+    <ul style="text-align: right; background-color: brown; float: left; text-align: center;">
+        <li>Araba</li>
+        <li>Telefon</li>
+        <li>Motor</li>
+    </ul>
+
+</body>
+</html>
